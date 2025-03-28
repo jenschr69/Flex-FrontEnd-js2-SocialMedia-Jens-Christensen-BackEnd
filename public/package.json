@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@keystone-6/core": "^6.4.0",
+    "typescript": "^5.8.2"
+  }
+}
