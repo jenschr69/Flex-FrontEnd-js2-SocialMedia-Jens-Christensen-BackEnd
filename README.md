@@ -6,4 +6,4 @@ To run the project from the command line use the following command: "npx keyston
 
 # In this project Keystone is using a MySQL database
 
-From the "public/database" folder, you can import the sql database file named ......
+From the "public/database" folder, you can import the sql database file named js2socialmedia
